@@ -1,4 +1,4 @@
-# Emotion Dynamics Modeling via Multimodal Fusion Graphs for Emotion Recognition in Conversation
+# Fusing Modalities and Emotional Dynamics: A Two-Stage Graph-based Framework for Emotion Recognition in Conversation
 
 ## 🛠️ Requirements
 
@@ -38,7 +38,7 @@ python3 -u train_MOSEI.py --base-model GRU --dropout=0.4 --lr=0.0001 --batch-siz
 ```
 
 ## 🚀 Quick Start
-We also provide the best model checkpoints of our EDM for each dataset. Download checkpoints:
+We also provide the best model checkpoints of our MoED for each dataset. Download checkpoints:
 - [IEMOCAP](https://drive.google.com/file/d/1RGmLqOcXkLHCv8ibTHVYSHZa9aFoTH64/view?usp=drive_link)  
 - [MELD](https://drive.google.com/file/d/1wy9mxnGHL1Mkt4napDzdoefe1MCQY6SL/view?usp=drive_link)
   
